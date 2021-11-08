@@ -1,0 +1,7 @@
+
+-vue-cli => create template projects with vuejs (https://cli.vuejs.org/)
+-Can see all the different templates using vue list
+
+usage: to create a template:
+
+vue init <template-name> <project-name> eg vue init webpack my-project;
