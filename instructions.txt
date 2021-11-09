@@ -5,3 +5,12 @@
 usage: to create a template:
 
 vue init <template-name> <project-name> eg vue init webpack my-project;
+
+-After project setup run "npm run dev" to start the vue server; To see this script; look at the package.json where we have a script called : "dev-server.js" under the scripts.
+
+setup the back to using npm init 
+
+Use other packages like nodemon, eslint and save
+
+for the backend => use express for the REST UAPI and also for the CRUD operations...
+
